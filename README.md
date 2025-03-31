@@ -47,7 +47,7 @@ This project provides an intuitive interface for data analysts to query and visu
 ### Clone the repository:
 
 ```bash
-  git
+   git clone https://github.com/himanshu01010/oneAna.git
   cd sql-query-runner
 ```
 
